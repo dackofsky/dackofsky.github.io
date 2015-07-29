@@ -1,0 +1,20 @@
+/*複数セレクタ*/
+h1, p {
+  color:red;
+}
+
+/*子孫セレクタ*/
+div li {
+  color: green;
+}
+
+/*子セレクタ*/
+div > p {
+  /* 背景色を赤 */
+  background-color: skyblue;
+}
+
+/*隣接セレクタ*/
+div + p {
+  color:violet;
+}
