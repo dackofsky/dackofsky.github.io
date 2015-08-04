@@ -1,0 +1,18 @@
+
+header{
+    background-color:#ffc;
+    margin:0;
+    padding-top:30px;
+}
+
+nav ul li{ 
+  padding:0 20px;
+  display: inline-block;
+  font-size:16px;
+}
+
+footer{
+ margin-top:0;
+ text-align:center;
+}
+  
